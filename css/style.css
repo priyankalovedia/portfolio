@@ -1453,9 +1453,9 @@ transition: all .3s;
 }
 
 .section-title h2 {
-    color: #222222;
+    color: rgb(3, 61, 90);
     font-family: 'Raleway', sans-serif;
-    font-size: 34px;
+    font-size: 44px;
     letter-spacing: -1px;
     margin: 0 0 15px;
     text-align: center;
@@ -1463,13 +1463,13 @@ transition: all .3s;
 }
 
 .section-title p {
-    color: #222222;
+    color: #24a5a8;
     font-family: 'Raleway', sans-serif;
-    font-size: 34px;
+    font-size: 24px;
     letter-spacing: -1px;
     margin: 0 0 15px;
     text-align: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 
